@@ -1,7 +1,7 @@
 ##Copyright @ Mai Xu, 2016
 
 ##Terms of use
-The related resources is provided for research purposes only and without any warranty. Any commercial use is prohibited.
+The related resources are provided for research purposes only and without any warranty. Any commercial use is prohibited.
 
 When using the resources in your research work, you should cite the following paper:
 
